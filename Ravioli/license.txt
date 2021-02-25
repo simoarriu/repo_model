@@ -1,0 +1,11 @@
+Model Information:
+* title:	Ravioli
+* source:	https://sketchfab.com/3d-models/ravioli-ccffa8f8f6d945d9a47d3a66628e032a
+* author:	Allison Simonette (https://sketchfab.com/allisonsimonette)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Ravioli" (https://sketchfab.com/3d-models/ravioli-ccffa8f8f6d945d9a47d3a66628e032a) by Allison Simonette (https://sketchfab.com/allisonsimonette) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
